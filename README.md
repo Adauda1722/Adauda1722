@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Dauda 👋
 
-<!--
-**Adauda1722/Adauda1722** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Frontend Developer  
+🌍 Building responsive websites for businesses  
+🚀 Passionate about HTML, CSS, Bootstrap & Git  
 
-Here are some ideas to get you started:
+## 🔥 Skills
+- HTML5
+- CSS3
+- Bootstrap
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 📌 Projects
+- 🌐 Portfolio Website (Live Link)
+- 📄 Business Landing Page
+
+## 📫 Contact Me
+- WhatsApp: 07084196724
+- email: daudaadauda24@gmail.com 
 -->
